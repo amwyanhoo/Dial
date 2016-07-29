@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dial</string>
+    <string name="title">请输入手机号码</string>
+    <string name="call">拨打</string>
+</resources>
